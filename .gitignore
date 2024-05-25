@@ -1,0 +1,9 @@
+# Ignore dependencies
+venv/
+.env
+.flaskenv
+
+# Python bytecode files
+__pycache__/
+
+
